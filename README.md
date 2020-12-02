@@ -1,2 +1,2 @@
-# ntroToProg-Python-Mod07
+# IntroToProg-Python-Mod07
 This is for assignment07
